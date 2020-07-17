@@ -2,5 +2,7 @@
 
 I'm currently pursuing a joint PhD on LPV system identification at:
 
-- KU Leuven in Belgium,
-- Budapest University of Technology and Economics in Hungary.
+- the [MECO research team](https://www.mech.kuleuven.be/en/pma/research/meco) at KU Leuven (Belgium),
+- the MATLAB Laboratory at Budapest University of Technology and Economics (Hungary).
+
+I am the original author of the open source CSDR and OpenWebRX packages for Software Defined Radio.
